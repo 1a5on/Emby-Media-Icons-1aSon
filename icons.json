@@ -3,7 +3,7 @@
   "description": "基于 GitHub 仓库的加速图标库",
   "icons": [
     {
-      "name": "HG_Emby",
+      "name": "HG",
       "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/HG_Emby.jpg"
     },
     {
