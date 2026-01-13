@@ -1,0 +1,22 @@
+{
+  "name": "1aSon的 Emby 图标库",
+  "description": "这是我个人收集的 Emby 媒体库图标，欢迎使用。",
+  "icons": [
+    {
+      "name": "M-HOT",
+      "url": "https://cdn.jsdelivr.net/gh/YourName/Emby-Icons@main/Library/电影.png"
+    },
+    {
+      "name": "电视剧",
+      "url": "https://cdn.jsdelivr.net/gh/YourName/Emby-Icons@main/Library/电视剧.png"
+    },
+    {
+      "name": "动漫",
+      "url": "https://cdn.jsdelivr.net/gh/YourName/Emby-Icons@main/Library/动漫.png"
+    },
+    {
+      "name": "纪录片",
+      "url": "https://cdn.jsdelivr.net/gh/YourName/Emby-Icons@main/Library/纪录片.png"
+    }
+  ]
+}
