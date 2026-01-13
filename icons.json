@@ -1,14 +1,106 @@
 {
   "name": "1aSon 图标库",
-  "description": "基于 GitHub 仓库的加速图标库",
+  "description": "by 1a5on-，Emby 媒体库自用图标库",
   "icons": [
     {
       "name": "HG",
-      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/HG_Emby.jpg"
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/HG.jpg"
     },
     {
-      "name": "另一个图标",
-      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/另一个图标.png"
+      "name": "M-Hot",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/M-Hot.jpg"
+    },
+    {
+      "name": "Nya",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/Nya.jpg"
+    },
+    {
+      "name": "我身无拘",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/%E6%88%91%E8%BA%AB%E6%97%A0%E6%8B%98.jpg"
+    },
+    {
+      "name": "桃子",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/%E6%A1%83%E5%AD%90.jpg"
+    },
+    {
+      "name": "探花",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/%E6%8E%A2%E8%8A%B1.jpg"
+    },
+    {
+      "name": "墨云阁",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/%E5%A2%A2%E4%BA%91%E9%98%81.jpg"
+    },
+    {
+      "name": "Nijigem",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/Nijigem.jpg"
+    },
+    {
+      "name": "后海",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/%E5%90%AE%E6%B5%B7.jpg"
+    },
+    {
+      "name": "Shrek",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/Shrek.jpg"
+    },
+    {
+      "name": "守候",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/%E5%AE%88%E5%80%99.jpg"
+    },
+    {
+      "name": "TF",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/TF.jpg"
+    },
+    {
+      "name": "一之濑琴美",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/%E4%B8%80%E4%B9%8B%E6%BF%91%E7%90%B4%E7%BE%8E.jpg"
+    },
+    {
+      "name": "临小境",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/%E4%B8%B4%E5%B0%8F%E5%A2%83.jpg"
+    },
+    {
+      "name": "泥嚎",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/%E6%B3%A5%E5%9A%8E.jpg"
+    },
+    {
+      "name": "Nayovo",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/Nayovo.jpg"
+    },
+    {
+      "name": "404",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/404.jpg"
+    },
+    {
+      "name": "不吃香菜",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/%E4%B8%8D%E5%90%83%E9%A6%99%E8%8F%9C.jpg"
+    },
+    {
+      "name": "叶子",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/%E5%8F%B6%E5%AD%90.jpg"
+    },
+    {
+      "name": "Cookie",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/Cookie.jpg"
+    },
+    {
+      "name": "GouSheng",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/GouSheng.jpg"
+    },
+    {
+      "name": "Etflix",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/Etflix.jpg"
+    },
+    {
+      "name": "飞跃-吹大牛",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/%E5%90%B6%E5%A4%A7%E7%89%9B.jpg"
+    },
+    {
+      "name": "Ok",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/Ok.jpg"
+    },
+    {
+      "name": "N150",
+      "url": "https://cdn.jsdelivr.net/gh/1a5on/Emby-Media-Icons-1aSon@main/icon/N150.png"
     }
   ]
 }
